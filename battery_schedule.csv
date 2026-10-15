@@ -1,0 +1,8 @@
+mode,duration_min
+standby,10
+drive,20
+sensing,10
+drive,25
+transmit,8
+standby,10
+drive,15
